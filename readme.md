@@ -76,11 +76,5 @@ This model successfully demonstrates:
 
 ---
 
-## 🚀 Next Improvements
-
-- Add more features (income, health status, smoking, etc.)
-- Use Train-Test Split instead of full dataset training
-- Try Polynomial Regression for better fit
-- Deploy model using Streamlit or Flask
 
 ---
